@@ -1,0 +1,6 @@
+{
+  "name": "StadiumMind AI",
+  "description": "An intelligent, GenAI-powered stadium operations and fan experience platform for the FIFA World Cup 2026, offering crowd heatmap analytics, queue predictions, emergency alerts, and organizer decision support.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
